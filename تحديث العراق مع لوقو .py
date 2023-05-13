@@ -11,7 +11,7 @@ print('-----------------------------------------------------------')
 name = input ('Entre password : \033[1;34m')
 print('\033[1;32m')
 print('\033[132m-----------------------------------------------------------')
-if name == 'NADERXCX' : 
+if name == 'NADERX' : 
 	print('\033[1;35m كلمه السر صح')
 	print ('اهلا وسهلا بك في اداتي')
 else :
@@ -33,7 +33,7 @@ t=(mm + "/" + dd + "/" + yyyy + " " + hour + ":" + mi + ":" + ss)
 
 hours = (now.hour)
 x = datetime.datetime.now()
-g= datetime.datetime(2023, 5, 1, 12, 10 ,9)
+g= datetime.datetime(2023, 6, 1, 12, 10 ,9)
 
 
 if (x.strftime("%x"))>(g.strftime("%x")):
